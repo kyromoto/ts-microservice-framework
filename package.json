@@ -1,0 +1,15 @@
+{
+  "name": "ts-microservice-framework",
+  "version": "0.0.0",
+  "description": "Simple microservice framework",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "author": {
+    "name": "Oliver Rademaker",
+    "url": "https://github.com/kyromoto"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/kyromoto/ts-microservice-framework.git"
+}

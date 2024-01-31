@@ -1,0 +1,24 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "express server example",
+  "main": "main.ts",
+  "scripts": {
+    "start" : "ts-node main.ts"
+  },
+  "author": {
+    "name": "Oliver Rademaker",
+    "url": "https://github.com/kyromoto"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "4.17",
+    "@types/node": "20.11",
+    "nodemon": "3.0",
+    "ts-node": "10.9",
+    "typescript": "5.3"
+  },
+  "dependencies": {
+    "express": "4.18"
+  }
+}
